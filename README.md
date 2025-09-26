@@ -7,15 +7,13 @@
 Po dołączeniu użytkownika na wskazany kanał:
 - 💬 Wita go automatyczną wiadomością (powitanie).
 - 🎵 Odtwarza zapętloną muzykę powitalną, która umila oczekiwanie (np. na administratora lub pomoc techniczną).
-- 📢 Może również odtwarzać komunikaty głosowe lub inne dźwięki – wszystko zależy od konfiguracji.
+- 📢 Może również odtwarzać komunikaty głosowe lub inne dźwięki – wszystko zależy od konfiguracji - i od tego jak bardzo edytujesz kod pod siebie :)
 
 Bot został stworzony z myślą o kanałach typu **"Czekam na pomoc"**, **"Rekrutacja"**, **"Support"** itp. – tak, by osoba czekająca nie siedziała w ciszy, tylko słyszała coś przyjemnego lub informacyjnego.
 
-To idealne narzędzie do automatyzacji pierwszego kontaktu i interakcji na Twoim serwerze Discord.
-
 ---
 
-## 💸 Koszty
+## 💸 Licencja
 
 Ten bot jest w pełni **DARMOWY**!  
 Możesz go swobodnie używać na swoim serwerze – bez żadnych opłat, licencji czy ukrytych haczyków.
@@ -49,5 +47,3 @@ Masz pytania, chcesz zgłosić błąd albo po prostu się przywitać?
 Złap mnie na Discordzie: `asminpl` lub napisz maila (adresy powyżej).
 
 ---
-
-> 🚀 Miłego korzystania z bota – niech Twoi użytkownicy czują się zaopiekowani od pierwszej sekundy!
